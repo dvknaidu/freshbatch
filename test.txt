@@ -4,3 +4,4 @@ b = 20
 c = a + b
 
 echo "The value of c is $c"
+echo "My coding is done"
